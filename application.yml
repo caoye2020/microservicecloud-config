@@ -9,6 +9,6 @@ spirng:
     name: microservicecloud-config-bdqn-dev
 ---
 spirng:
-  profiles: dev
+  profiles: test
   application:
     name: microservicecloud-config-bdqn-test
